@@ -1,0 +1,4 @@
+<glassfish-web-app>
+<class-loader delegate="false" />
+<property name="useBundledJsf" value="true" />
+    </glassfish-web-app>
