@@ -1,2 +1,3 @@
 # SemesterProject
-Semester Project: movie database analog
+Semester Project: movie database analog with java servlets
+
